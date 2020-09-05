@@ -1,4 +1,4 @@
-# Change background color
+# Counter
 
 > Click on the buttons to increase or decrease the count
 
