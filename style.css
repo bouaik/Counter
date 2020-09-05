@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://blog.prezi.com/wp-content/uploads/2019/03/jason-leung-479251-unsplash.jpg);
+    background-size: cover;
+}
+
+.row {
+    min-height: 100vh;
+}
+
+.col {
+    border: 3px solid rgba(0, 0, 0, 0.377);
+    background-color: rgba(0, 153, 255, 0.397);
+}
+
+#counter {
+    font-size: 200px;
+}
